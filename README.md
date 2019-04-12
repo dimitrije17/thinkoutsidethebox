@@ -35,4 +35,7 @@ Right   | Right Arrow
 Up      | Up Arrow
 Down    | Down Arrow
 
-If you want to run the game go to https://www.emuparadise.me/Nintendo_Gameboy_Advance_Emulators/Windows/mGBA/155 and download the emulator!
+If you want to run the game go to 
+https://www.emuparadise.me/Nintendo_Gameboy_Advance_Emulators/Windows/mGBA/155 
+https://www.emuparadise.me/Nintendo_Gameboy_Advance_Emulators/Mac_OS_X/mGBA/156
+and download the emulator!
